@@ -42,10 +42,10 @@
 
 
 
-<!-- Snake - TO BE MODIFIED -->
+<!-- Snake - TO BE MODIFIED 
 
 ![snake animation](https://github.com/akij22/akij22/blob/output/github-contribution-grid-snake2.svg)
-
+-->
 <br>
 <br />
 
@@ -54,9 +54,11 @@
 
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect</b>
 <br>
-
+<a href="https://www.linkedin.com/in/achille-rossi-113184303/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <br>
 <br>
 <br>
