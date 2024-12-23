@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Achille Rossi's profile </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FC000&center=true&width=435&lines=Achille+Rossi;Junior+Developer" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=Achille+Rossi;Junior+developer;Student+at+University+of+Parma" alt="Typing SVG" /></a>
 </p>
 
 
@@ -10,12 +10,12 @@
 
 
 
-**About me...!**
+**About me** 🙋‍♂️
 
 <br>
 
-* I'm a junior developer 🧑‍💻
-* I'm studying at University of Parma, Italy ([Unipr.it](https://www.unipr.it/))
+* I'm a **junior developer** 🧑‍💻
+* I'm studying at **University of Parma**, Italy ([Unipr.it](https://www.unipr.it/)) 📚
 
 <br><br>
 
@@ -69,6 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akij22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akij22&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
+<br />
 
 [![](https://visitcount.itsvg.in/api?id=akij22&icon=0&color=0)](https://visitcount.itsvg.in) 
 <br><br>
