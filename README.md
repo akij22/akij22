@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akij22&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/akij22"><img src="https://streak-stats.demolab.com?user=akij22&theme=tokyonight" alt="GitHub Streak" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=akij22&icon=0&color=0)](https://visitcount.itsvg.in) 
 <br><br>
