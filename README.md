@@ -18,7 +18,6 @@
 <br>
 
 * I'm a junior developer 🧑‍💻
-* Working for Netribe Ultra ⚡️
 
 <br><br>
 
