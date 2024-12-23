@@ -40,8 +40,9 @@
 
 <br>
 
-
-![snake gif](https://github.com/akij22/akij22/blob/output/github-snake-dark.svg)
+<div align="center">
+	![snake gif](https://github.com/akij22/akij22/blob/output/github-snake-dark.svg)
+</div>
 <br>
 <br />
 
