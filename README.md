@@ -41,11 +41,7 @@
 <br>
 
 
-
-<!-- Snake - TO BE MODIFIED 
-
-![snake animation](https://github.com/akij22/akij22/blob/output/github-contribution-grid-snake2.svg)
--->
+![snake gif](https://github.com/akij22/akij22/blob/output/github-snake-dark.svg)
 <br>
 <br />
 
