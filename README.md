@@ -63,11 +63,7 @@
 
 <div align="center">
 
-<a href="https://github.com/akij22/">
-  <img src="https://github-readme-stats.vercel.app/api?username=akij22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akij22&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akij22&theme=tokyonight" alt="GitHub Streak" /></a>
 
 <br />
 <br />
