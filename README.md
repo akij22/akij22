@@ -11,7 +11,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> <b>About me </b>
 
 <br>
 
@@ -34,7 +34,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=akij22&icon=0&color=0)](https://visitcount.itsvg.in) 
-<br><br>
+
 </a>
 </div>
 
@@ -54,7 +54,7 @@
 
 
 
-## <b> Let's Connect</b>
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 50 /> <b> Let's Connect</b>
 <br>
 <a href="https://www.linkedin.com/in/achille-rossi-113184303/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
