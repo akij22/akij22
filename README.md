@@ -17,7 +17,7 @@
 
 * I'm a **junior developer** 🧑‍💻
 * I'm studying at **University of Parma**, Italy ([Unipr.it](https://www.unipr.it/)) 📚
-* You can find the repos of the programming course **[A](https://github.com/akij22/FdP-A--UniPr)** and **[B](https://github.com/akij22/FdP-B--UniPr)** here 👾
+* you can find the repositories of the course "Fondamenti di programmazione **[A](https://github.com/akij22/FdP-A--UniPr)** e **[B](https://github.com/akij22/FdP-B--UniPr)**" here 👾
 
 <br>
 <br>
