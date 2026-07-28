@@ -23,31 +23,7 @@
 <br>
 <br>
 
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
-<div align="center">
-
-![Akij's stats](https://github-readme-stats.vercel.app/api?username=akij22&theme=dark&show_icons=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=akij22&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-</a>
-</div>
-
-<br>
-<!--- 
-![snake gif](https://github.com/akij22/akij22/blob/output/github-snake-dark.svg)
-<br>
-<br>
-<br />
--->
-
-
 
 
 
@@ -61,6 +37,8 @@
 <a href="https://www.instagram.com/__akij__/?next=%2F">
 <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=purple" />
 </a>
+
+[![CV](https://img.shields.io/badge/CV-E67E22?style=for-the-badge&logo=readme&logoColor=white)](./resume_cv.pdf)
 
 <br>
 <br>
