@@ -35,7 +35,7 @@
 <a href="https://www.instagram.com/__akij__/?next=%2F">
 <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=purple" />
 </a>
-<a href="./resume_cv.pdf">
+<a href="./resume_cv.pdf" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/CV-E67E22?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 
