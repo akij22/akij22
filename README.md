@@ -16,7 +16,7 @@
 <br>
 
 * I'm a **junior developer** 🧑‍💻
-* I'm studying at **[University of Parma](https://www.unipr.it/))**, Italy 📚
+* I'm studying at **[University of Parma](https://www.unipr.it/)**, Italy 📚
 * I'm focused on AI-based projects 💫
 
 <br>
